@@ -1,0 +1,108 @@
+.generic-name {
+  color: #fff;
+  font-size: 2rem;
+}
+
+.question-container {
+  display: grid;
+  place-items: center;
+  margin: 4rem auto;
+  border: none;
+  width: 80%;
+  max-width: 600px;
+  border-radius: 1.2rem;
+  background-color: #8e63d3;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  padding: 12px;
+}
+
+.drug-brands {
+  width: 100%;
+  max-width: 325px;
+  padding: 0.6rem;
+  border-radius: 0.75rem;
+  border: none;
+  font-size: 1.2rem;
+  background-color: #ffffffd2;
+}
+
+.drug-brands:hover {
+  cursor: pointer;
+  background-color: #ffffff6c;
+}
+
+/* Score Container */
+.score-container {
+  color: black;
+  display: grid;
+  place-items: center;
+  border: none;
+  width: 80%;
+  max-width: 600px;
+  height: 50vh;
+  margin: 4rem auto;
+  border-radius: 1.2rem;
+  background-color: #ffffb3;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  padding: 3rem;
+}
+
+.score-container > h2 {
+  font-size: 1.8rem;
+  text-align: center;
+}
+
+.score-container > p {
+  font-size: 1.2rem;
+  text-align: center;
+}
+
+.score-container > button {
+  padding: 1rem;
+  border: none;
+  width: 160px;
+  border-radius: 12px;
+  background-color: #8e63d3;
+  color: #fff;
+  font-size: 1.1rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.score-container > button:hover {
+  background-color: #a074e7;
+  cursor: pointer;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Media Query for Small Screens */
+@media only screen and (max-width: 600px) {
+  .question-container,
+  .score-container {
+    width: 90%;
+    height: 50vh;
+    padding: 8px;
+    border-radius: 1rem;
+  }
+}
+
+/* Media Query for Medium Screens */
+@media only screen and (min-width: 601px) and (max-width: 1024px) {
+  .question-container,
+  .score-container {
+    width: 70%;
+    height: 50vh;
+    padding: 10px;
+    border-radius: 1.1rem;
+  }
+}
+
+/* Media Query for Large Screens */
+@media only screen and (min-width: 1025px) {
+  .question-container,
+  .score-container {
+    width: 60%;
+    height: 55vh;
+    padding: 12px;
+    border-radius: 1.2rem;
+  }
+}

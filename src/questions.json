@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "genericName": "Paracetamol",
+    "brandName": "Biogesic",
+    "choices": ["Aspirin", "Advil", "Alaxan", "Biogesic"]
+  },
+  {
+    "id": 2,
+    "genericName": "Ibuprofen",
+    "brandName": "Advil",
+    "choices": ["Aspirin", "Advil", "Alaxan", "Biogesic"]
+  },
+  {
+    "id": 3,
+    "genericName": "Loratadine",
+    "brandName": "Claritin",
+    "choices": ["Allegra", "Benadryl", "Zyrtec", "Claritin"]
+  },
+  {
+    "id": 4,
+    "genericName": "Cetirizine",
+    "brandName": "Zyrtec",
+    "choices": ["Allegra", "Benadryl", "Zyrtec", "Claritin"]
+  },
+  {
+    "id": 5,
+    "genericName": "Omeprazole",
+    "brandName": "Prilosec",
+    "choices": ["Nexium", "Prevacid", "Prilosec", "Zantac"]
+  },
+  {
+    "id": 6,
+    "genericName": "Simvastatin",
+    "brandName": "Zocor",
+    "choices": ["Crestor", "Lipitor", "Zocor", "Vytorin"]
+  },
+  {
+    "id": 7,
+    "genericName": "Metformin",
+    "brandName": "Glucophage",
+    "choices": ["Actos", "Avandia", "Glucophage", "Januvia"]
+  },
+  {
+    "id": 8,
+    "genericName": "Amoxicillin",
+    "brandName": "Amoxil",
+    "choices": ["Augmentin", "Bactrim", "Cipro", "Amoxil"]
+  },
+  {
+    "id": 9,
+    "genericName": "Azithromycin",
+    "brandName": "Zithromax",
+    "choices": ["Cipro", "Levaquin", "Zithromax", "Bactrim"]
+  },
+  {
+    "id": 10,
+    "genericName": "Cefuroxime",
+    "brandName": "Zinacef",
+    "choices": ["Augmentin", "Zinacef", "Cipro", "Levaquin"]
+  },
+  {
+    "id": 11,
+    "genericName": "Diphenhydramine",
+    "brandName": "Benadryl",
+    "choices": ["Allegra", "Benadryl", "Zyrtec", "Claritin"]
+  },
+  {
+    "id": 12,
+    "genericName": "Salbutamol",
+    "brandName": "Ventolin",
+    "choices": ["Advair", "Spiriva", "Ventolin", "Xopenex"]
+  },
+  {
+    "id": 13,
+    "genericName": "Montelukast",
+    "brandName": "Singulair",
+    "choices": ["Advair", "Flovent", "Symbicort", "Singulair"]
+  },
+  {
+    "id": 14,
+    "genericName": "Metronidazole",
+    "brandName": "Flagyl",
+    "choices": ["Amoxil", "Bactrim", "Flagyl", "Zithromax"]
+  },
+  {
+    "id": 15,
+    "genericName": "Loperamide",
+    "brandName": "Imodium",
+    "choices": ["Imodium", "Pepto-Bismol", "Kaopectate", "Tums"]
+  },
+  {
+    "id": 16,
+    "genericName": "Candesartan",
+    "brandName": "Atacand",
+    "choices": ["Losartan", "Irbesartan", "Valsartan", "Atacand"]
+  },
+  {
+    "id": 17,
+    "genericName": "Levocetirizine",
+    "brandName": "Xyzal",
+    "choices": ["Allegra", "Benadryl", "Zyrtec", "Xyzal"]
+  },
+  {
+    "id": 18,
+    "genericName": "Hydrochlorothiazide",
+    "brandName": "Microzide",
+    "choices": ["Lasix", "Microzide", "Aldactone", "Dyazide"]
+  },
+  {
+    "id": 19,
+    "genericName": "Naproxen",
+    "brandName": "Flanax",
+    "choices": ["Ibuprofen", "Advil", "Tylenol", "Flanax"]
+  },
+  {
+    "id": 20,
+    "genericName": "Fluoxetine",
+    "brandName": "Prozac",
+    "choices": ["Lexapro", "Paxil", "Zoloft", "Prozac"]
+  }
+]
